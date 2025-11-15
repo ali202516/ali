@@ -209,7 +209,14 @@ footer {
         }
 
     }
+.slider{
+.img_wid{
+max-width: 129px;
 
+
+}
+
+}
     .next_big_thing {
         .costom_padding {
             margin: 136px 188px 0px !important;
@@ -242,7 +249,3 @@ footer {
 
     }
 }
-
-/* <div class="hero d-flex flex-column flex-lg-row">
-            <div class="container bg-primary"> a</div>
-            <div class="container bg-dark d-lg-none">b</div> */
